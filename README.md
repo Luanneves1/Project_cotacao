@@ -1,3 +1,20 @@
+# Conversor de Moedas
+
+Este projeto é um simples conversor de moedas que permite ao usuário converter valores entre diferentes moedas usando as cotações mais recentes fornecidas pela API do Banco Central do Brasil.
+
+## Funcionalidades
+
+- Conversão de valores entre várias moedas.
+- Utilização de cotações atualizadas diretamente da API do Banco Central.
+- Interface amigável para inserção de valores e seleção de moedas.
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- PHP
+
+## Estrutura do Projeto
 
 ### `index.php`
 
